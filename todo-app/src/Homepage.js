@@ -53,10 +53,7 @@ function Homepage(){
 
   return (
     <div class="mb-3">
-      {/* 1. Header  */}
       <h1>My Todo List</h1>
-
-      {/* 2. Add new item (input) */}
       <input
         type="text"
         placeholder="Add an item..."

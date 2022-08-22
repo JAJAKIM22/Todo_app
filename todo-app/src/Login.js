@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
   const navigate = useNavigate();
 
   return(
-    <div>
+    <div  class="mb-3">
       <input type="text" placeholder="email" />
       <input type="text" placeholder="password" />
       <button 
