@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 
  export default function Dashboard(){
     return(
+        <div class="dropdown">
         <nav>
-        <ul>
+        <ul >
             <li>
                 <Link to="/homepage">HOMEPAGE</Link>
             </li>
@@ -13,6 +14,7 @@ import { Link } from "react-router-dom";
             </li>
         </ul>
         </nav>
+        </div>
     )
 
  }
