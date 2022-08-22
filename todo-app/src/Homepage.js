@@ -52,7 +52,7 @@ function Homepage(){
   }
 
   return (
-    <div className="app">
+    <div class="mb-3">
       {/* 1. Header  */}
       <h1>My Todo List</h1>
 
