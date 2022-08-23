@@ -1,3 +1,21 @@
+# Peter_TODO APP
+
+
+
+## ABOUT PROJECT
+This is a web application about a TODO APPLIACTION
+
+## TECHNOLOGIES USED
+1.REACT 2.JAVASCRIPT 3.CSS 4
+
+## REQUIREMENTS
+This project requires Visual Studio code editor.
+
+## AUTHOR
+Peter Karanja Kimani
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +31,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm install react-bootstrap bootsrap`
+Installing Bootsrap for the application
+
+### `npm install react-router-dom`
+Installing router-dom to help in accessing routes.
 
 ### `npm test`
 
@@ -63,7 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+DEPLOYED TO HEROKU: [https://newtodo-application.herokuapp.com/login](https://newtodo-application.herokuapp.com/login)
 
 ### `npm run build` fails to minify
 
