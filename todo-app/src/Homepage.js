@@ -53,7 +53,7 @@ function Homepage(){
 
   return (
     <div class="mb-3">
-      <h1>My Todo List</h1>
+      <h1 className="heading">My Todo List</h1>
       <input
         type="text"
         placeholder="Add an item..."
@@ -62,10 +62,10 @@ function Homepage(){
       />
 
       {/* Add (button) */}
-      <button onClick={() => addItem()}>Add</button>
+      <button  onClick={() => addItem()}>Add</button>
 
       {/* 3. List of todos (unordered list) */}
-      <ul>
+      <ul className="list">
         {items.map((item) => {
           return (
             <div>
@@ -75,7 +75,7 @@ function Homepage(){
                   className="delete-button"
                   onClick={() => deleteItem(item.id)}
                 >
-                  ❌
+                  DEL
                 </button>
               </li>
 
