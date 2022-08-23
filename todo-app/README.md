@@ -11,10 +11,6 @@ This is a web application about a TODO APPLICATION
 ## REQUIREMENTS
 This project requires Visual Studio code editor.
 
-## AUTHOR
-Peter Karanja Kimani
-
-
 
 # Getting Started with Create React App
 
@@ -92,3 +88,7 @@ DEPLOYED TO HEROKU: [https://newtodo-application.herokuapp.com/login](https://ne
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## AUTHOR
+Peter Karanja Kimani
