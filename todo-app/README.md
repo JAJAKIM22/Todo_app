@@ -3,10 +3,10 @@
 
 
 ## ABOUT PROJECT
-This is a web application about a TODO APPLIACTION
+This is a web application about a TODO APPLICATION
 
 ## TECHNOLOGIES USED
-1.REACT 2.JAVASCRIPT 3.CSS 4
+1.REACT 2.JAVASCRIPT 3.CSS 
 
 ## REQUIREMENTS
 This project requires Visual Studio code editor.
